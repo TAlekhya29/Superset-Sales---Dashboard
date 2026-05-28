@@ -1,0 +1,55 @@
+# Retail Sales & Profitability Dashboard
+
+## Project Overview
+This project is an interactive Power BI dashboard created using the Superstore dataset. The dashboard provides insights into sales performance, profitability, regional analysis, and category-wise business trends.
+
+---
+
+## Dashboard Features
+- KPI Cards for Revenue, Profit, Quantity, and Profit Margin
+- Sales Analysis by Category
+- Profit Analysis by Region
+- State-wise Sales Visualization using Map
+- Interactive Filters for Region, Category, and Segment
+- Clean and Professional Dashboard Design
+
+---
+
+## Tools Used
+- Power BI
+- Excel
+
+---
+
+## Key Insights
+- Technology category generated the highest sales
+- West region contributed the highest profit
+- Office Supplies category contributed the largest quantity sold
+- Interactive slicers help analyze data dynamically
+
+---
+
+## Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
+---
+
+## Files Included
+- Retail Sales Dashboard.pbix
+- Superstore Dataset.xlsx
+- dashboard.png
+
+---
+
+## Skills Demonstrated
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+- Business Intelligence
+- Interactive Filtering
+- Data Analysis
+
+---
+
+## Author
+Alekhya Thota
