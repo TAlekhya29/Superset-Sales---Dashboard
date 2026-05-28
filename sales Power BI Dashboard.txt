@@ -30,7 +30,7 @@ This project is an interactive Power BI dashboard created using the Superstore d
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
